@@ -44,3 +44,8 @@ StartCoroutine은 GC에 부담을 준다. 짧게 쓰고 자주 쓰는 코루틴�
 
 
 _참고 https://rito15.github.io/posts/unity-opt-script-optimization/_
+
+
+# Game Pattern
+
+_참고 https://ansohxxn.github.io/design%20pattern/chapter8/_
